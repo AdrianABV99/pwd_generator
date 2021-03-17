@@ -8,6 +8,8 @@ Through the foreign key we can find which credentials belong to each account.
 The hashing and the generated passwords are based on the sha256 algorithm
 
 RESOURCES:
+
+
         https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
         https://www.postgresqltutorial.com/postgresql-python/connect/
         https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/
